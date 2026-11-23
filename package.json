@@ -1,0 +1,26 @@
+{
+  "name": "securepass",
+  "version": "1.0.0",
+  "description": "Password Policy Validation and Secure Authentication System using Regular Expressions and Deterministic Finite Automata (DFA)",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "test:backend": "cd backend && npm test",
+    "lint:frontend": "cd frontend && npm run lint"
+  },
+  "keywords": [
+    "password-validation",
+    "dfa",
+    "regex",
+    "automata-theory",
+    "finite-state-machine",
+    "bcrypt",
+    "mongodb",
+    "react",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
